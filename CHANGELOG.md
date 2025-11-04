@@ -36,6 +36,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - [`ec1abbe`](https://github.com/colin404/osbuildertest/commit/ec1abbe0d7ef29f52634b6ea0bf4ab7984a952f6) refactor(user): 2222
 - [`c8ae063`](https://github.com/colin404/osbuildertest/commit/c8ae063f45c48931d1fafd8adbd94492f4ea0919) refactor(user): 2222
 
+## [v0.1.2](https://github.com/colin404/osbuildertest/releases/tag/v0.1.2) - 2025-11-04
+
+- [`edca5cd`](https://github.com/colin404/osbuildertest/commit/edca5cd0e83f7db5c83e223893f2f0ca815db085) refactor(user): 2222
+- [`bd1177d`](https://github.com/colin404/osbuildertest/commit/bd1177d34223fa7711809f2fd93c6863bd9bbfa4) refactor(user): 2222
+- [`1db7c9a`](https://github.com/colin404/osbuildertest/commit/1db7c9a989478a260026fa49c3fa27915bb1db98) refactor(user): 2222
+- [`e4d6a1b`](https://github.com/colin404/osbuildertest/commit/e4d6a1baa7f27d0f664424c37de8d6a1f93fcc49) refactor(user): 2222
+- [`d55b3bf`](https://github.com/colin404/osbuildertest/commit/d55b3bf3fb0928e201905a5664d41efccecc3a0a) refactor(user): 2222
+- [`ec1abbe`](https://github.com/colin404/osbuildertest/commit/ec1abbe0d7ef29f52634b6ea0bf4ab7984a952f6) refactor(user): 2222
+- [`c8ae063`](https://github.com/colin404/osbuildertest/commit/c8ae063f45c48931d1fafd8adbd94492f4ea0919) refactor(user): 2222
+
 ## [v0.1.2-alpha.5](https://github.com/colin404/osbuildertest/releases/tag/v0.1.2-alpha.5) - 2025-11-04
 
 - [`c4cf6c8`](https://github.com/colin404/osbuildertest/commit/c4cf6c896aaefc6e99e12a25ef6a382491921939) refactor(user): 2222
