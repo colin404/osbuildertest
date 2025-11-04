@@ -2,4 +2,4 @@
 
 echo 1 >> 11
 git add .
-git commit -m "fix: 2222"
+git commit -m "fix(beta): 2222"
